@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">频谱感知系统</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no1">no 1</string>
+    <string name="no2">no 2</string>
+
+</resources>
